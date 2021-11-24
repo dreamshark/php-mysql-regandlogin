@@ -105,6 +105,10 @@ $conn->close();
 
 ## 系统代码
 
+> **项目代码可该处下载**
+>
+> https://github.com/dreamshark/php-mysql-regandlogin
+
 ### index.html
 
 ```html
