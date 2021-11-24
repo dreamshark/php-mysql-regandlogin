@@ -1,8 +1,8 @@
 <?php
-$host='etherealdreamfuture.com';
-$user='login';
-$password='123456';
-$dbName='login';
+$host='your-hostname';//域名
+$dbUser='your-database-username';//数据库用户名
+$dbPassword='your-database-user-password';//数据库用户密码
+$dbName='your-database-name';//数据库名
 
 // 创建连接
 $conn = new mysqli($host, $user, $password, $dbName);
